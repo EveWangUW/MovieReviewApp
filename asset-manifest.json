@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MovieReviewApp/static/css/main.41e7e927.css",
+    "main.js": "/MovieReviewApp/static/js/main.9f89d02e.js",
+    "static/media/spinner.gif": "/MovieReviewApp/static/media/spinner.a1a996746e5e48352c81.gif",
+    "index.html": "/MovieReviewApp/index.html",
+    "main.41e7e927.css.map": "/MovieReviewApp/static/css/main.41e7e927.css.map",
+    "main.9f89d02e.js.map": "/MovieReviewApp/static/js/main.9f89d02e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41e7e927.css",
+    "static/js/main.9f89d02e.js"
+  ]
+}
